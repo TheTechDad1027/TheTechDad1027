@@ -1,6 +1,6 @@
 # I'm TheTechDad1027
 
-I build a constantly evolving ecosystem of offline-first utilities and big-screen dashboards for :contentReference[oaicite:0]{index=0} power users. Tools are shared *as-is*, updated often, and expanding rapidly — innovation always in progress.
+I build a constantly evolving ecosystem of utilities for power users. Tools are shared *as-is*, updated often, and expanding rapidly — innovation always in progress.
 
 ---
 
