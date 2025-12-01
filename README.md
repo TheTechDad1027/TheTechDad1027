@@ -23,7 +23,7 @@ My GitHub is my **release and distribution engine** where:
 
 ---
 
-⚠️ Cover-Your-butt Clause
+⚠️ Cover-My-butt Clause
 
 Unless required by law or agreed to in writing, anything distributed here is:
 
