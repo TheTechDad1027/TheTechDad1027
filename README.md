@@ -8,8 +8,8 @@ I build a constantly evolving ecosystem of offline-first utilities and big-scree
 
 - **Build fast → improve constantly → share**
 - Products designed for **clarity, independence, and large-screen usability**
-- Passionate about :contentReference[oaicite:1]{index=1}-centric automation with a focus on :contentReference[oaicite:2]{index=2} UI apps
-- All personal projects sit under one growing ecosystem: **deployable, evolving, never stagnant**
+- Passionate about automation with a focus on UI apps
+- All personal projects sit under one growing ecosystem
 
 ---
 
@@ -28,7 +28,7 @@ My GitHub is my **release and distribution engine** where:
 Unless required by law or agreed to in writing, anything distributed here is:
 
 > **“AS-IS”** without warranty or guaranteed outcomes.  
-> These tools are experimental, evolving, and not 100% proven to remove personal data or reduce spam. Use at your own risk.
+> These tools are experimental, evolving, and not 100% proven. Use at your own risk.
 
 ---
 
