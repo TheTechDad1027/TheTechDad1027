@@ -6,7 +6,7 @@ I build a constantly evolving ecosystem of offline-first utilities and big-scree
 
 💡 What I'm all about
 
-- **Build fast → improve constantly → share freely**
+- **Build fast → improve constantly → share**
 - Products designed for **clarity, independence, and large-screen usability**
 - Passionate about :contentReference[oaicite:1]{index=1}-centric automation with a focus on :contentReference[oaicite:2]{index=2} UI apps
 - All personal projects sit under one growing ecosystem: **deployable, evolving, never stagnant**
